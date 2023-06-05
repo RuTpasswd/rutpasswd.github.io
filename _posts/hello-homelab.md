@@ -1,6 +1,6 @@
 ---
 title: Rutpasswd
-date: 2023-06-05 11:31:00 -500
+date: 2023-06-05 11:00:00 -500
 categories: [Blogging, Initial]
 tags: [DevOps Engineering, Data Enginnering]
 ---
@@ -15,6 +15,12 @@ console.log('hello world!')
 * one
 * two
 * three
+
+```bash
+sudo apt update
+```
+
+
 
 
 
